@@ -4,6 +4,7 @@ Change the CMD text:
 Cansado del tipico cmd de windows?
 
 ![image](https://user-images.githubusercontent.com/48807342/156892525-b0f30d39-8888-4518-864d-144110e1b31b.png)
+
 Quieres algo mejor?
 Por ejemplo, estilo KaliLinux? Pues con Brand Changer puedes!
 Ejemplo:
