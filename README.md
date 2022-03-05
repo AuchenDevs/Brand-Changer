@@ -41,3 +41,7 @@ TO-DO:
 More presets
 English lang
 Repair errors (If exist)
+
+
+DISCLAIMER:
+Si vas a usar mi  SCR da creditos
